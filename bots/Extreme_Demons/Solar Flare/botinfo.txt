@@ -9,3 +9,7 @@ Bot / Replay type: .gdr2
 Bot / Hack / Exploit / Recording Software used: Eclipse (Geode Mod)
 Bot Creator: PetanPlays (Geometry Dash) & idkmaan123 (Discord) & Petan123123 (GitHub)
 Bot TPS: 240
+
+Message from bot / replay Creator:
+This level was fun to bot while not being too hard to bot and also not too laggy for my laptop!
+Should definetly try this bot!
