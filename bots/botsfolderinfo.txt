@@ -1,0 +1,10 @@
+// Bot Folder Info:
+
+Each bot is sorted by many files, like this:
+
+Lets take a look for the bot for the level 'Solar Flare':
+We go to:
+
+GDBots/bots/Extreme_Demons/Solar Flare/Solar Flare.gdr2
+We go to Extreme_Demons because 'Solar Flare' is a extreme demon difficulty level.
+And we go to 'Solar Flare' because guess what.
