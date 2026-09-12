@@ -11,6 +11,6 @@ Bot Creator: PetanPlays (Geometry Dash) & idkmaan123 (Discord) & Petan123123 (Gi
 Bot TPS: 240
 
 WARNING:
-  This replay is a little bit unrealaistic!
+  This replay is a little bit unrealistic!
   Contains clicks between frames when we dont need them!
   Disable clicks if showcasing the level while using this replay.
